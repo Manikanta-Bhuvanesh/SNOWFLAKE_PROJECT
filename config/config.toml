@@ -1,0 +1,8 @@
+[snowflake]
+account = ""
+user = ""
+password = ""
+role = "ACCOUNTADMIN"
+warehouse = "COMPUTE_WH"
+database = "STOCKS_DB"
+schema = "STOCKS_INFO"
